@@ -1,0 +1,22 @@
+body{
+    background-color: navy;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+ul{
+    list-style-type:square;
+}
+h2{
+    text-align: center;
+}
+.my-likes{
+    border: 5px solid white;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#my-dislikes{
+    border: 5px solid white;
+    width: 200px;
+}
